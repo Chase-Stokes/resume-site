@@ -1,0 +1,23 @@
+.contactInfo {
+  margin-right: 80%;
+  list-style-type: none;
+}
+
+.experience {
+  font-style: italic;
+}
+
+.education {
+  font-style: bold;
+  font-family:'Franklin Gothic Medium';
+}
+
+.about {
+  border: 1px solid black;
+  font-size: 75%;
+}
+
+.headers {
+  color: darkred;
+  text-decoration: underline;
+}
